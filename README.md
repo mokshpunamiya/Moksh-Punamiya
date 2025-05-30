@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Animation.gif" width="400" alt="Moksh Punamiya's Animated Intro"/>
+  <img src="Moksh.gif" width="400" alt="Moksh Punamiya's Animated Intro"/>
 </p>
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=mokshpunamiya.mokshpunamiya&color=00cf00)
 
