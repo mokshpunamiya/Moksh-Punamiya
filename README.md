@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Moksh (3).gif"
+  <img src="Moksh.gif"
        alt="Moksh Punamiya's Animated Intro"
        style="width:100%; max-width:1200px; height:auto;" />
 </p>
