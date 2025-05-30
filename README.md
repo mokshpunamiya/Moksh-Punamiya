@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Moksh Punamiya" title="👋 Hi there! I'm Moksh Punamiya"/>](https://github.com/mokshpunamiya)
+<img src="https://github.com/mokshpunamiya/mokshpunamiya/blob/main/assets/intro.gif" alt="👋 Hi there! I'm Moksh Punamiya" />(https://github.com/mokshpunamiya)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=mokshpunamiya.mokshpunamiya&color=00cf00)
 
