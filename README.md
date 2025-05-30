@@ -1,5 +1,6 @@
-<img src="https://github.com/mokshpunamiya/mokshpunamiya/blob/main/assets/intro.gif" alt="👋 Hi there! I'm Moksh Punamiya" />(https://github.com/mokshpunamiya)
-
+<p align="center">
+  <img src="moksh-intro.gif" width="400" alt="Moksh Punamiya's Animated Intro"/>
+</p>
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=mokshpunamiya.mokshpunamiya&color=00cf00)
 
 *𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-30`
